@@ -14,7 +14,7 @@ The results of DDPM
 [](images/backward_animate_new_pred_2_best.gif)
 <img src="images/backward_animate_new_pred_2_best.gif" width="300" height="300" />
 
-The results of conditional diffusion model conditioned on the pokemon type based on the classifier free guidance approach
+The results of conditional diffusion model conditioned on the pokemon type based on the classifier free guidance approach, where each column indicates a pokemon type
 
 [](images/backward_animate_pred_cfg_3_best_gf_0.5.gif)
 <img src="images/backward_animate_pred_cfg_3_best_gf_0.5.gif" width="300" height="300" />
