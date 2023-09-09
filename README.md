@@ -9,3 +9,4 @@ Also, I have added a google colab notebook (.ipynb) that includes both these imp
 
 Note: Running the implementation on colab will be really slow.
 
+The results of DDPM <img src="images/backward_animate_new_pred_2_best.gif" width="200"/>
